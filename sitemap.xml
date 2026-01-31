@@ -2,56 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://hilberg-it.de/</loc>
-        <lastmod>2026-01-26</lastmod>
+        <lastmod>2026-01-31</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
-    <url>
-        <loc>https://hilberg-it.de/#about</loc>
-        <lastmod>2026-01-26</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://hilberg-it.de/#work</loc>
-        <lastmod>2026-01-26</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://hilberg-it.de/#contact</loc>
-        <lastmod>2026-01-26</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+  <url>
+    <loc>https://hilberg-it.de/blog</loc>
+    <lastmod>2026-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.hilberg-it.de/blog/smartbillparser</loc>
+    <lastmod>2025-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.hilberg-it.de/blog/keycloak-uma</loc>
+    <lastmod>2021-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.hilberg-it.de/blog/aurelia-realworld-app</loc>
+    <lastmod>2018-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
     <url>
         <loc>https://hilberg-it.de/imprint</loc>
         <lastmod>2026-01-26</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.4</priority>
+        <priority>0.3</priority>
     </url>
     <url>
         <loc>https://hilberg-it.de/privacy</loc>
         <lastmod>2026-01-26</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.4</priority>
+        <priority>0.3</priority>
     </url>
-  <url>
-    <loc>https://hilberg-it.de/blog</loc>
-    <lastmod>2026-01-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hilberg-it.de/blog/aurelia-realworld-app</loc>
-    <lastmod>2026-01-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hilberg-it.de/blog/smartbillparser</loc>
-    <lastmod>2025-11-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
 </urlset>
