@@ -1,0 +1,1 @@
+import{r as i,j as o}from"./chunk-CUuCKY5k.js";const c=({user:t="hilberg.it",domain:e="posteo.de",className:s=""})=>{const[r,a]=i.useState("");return i.useEffect(()=>{const l=setTimeout(()=>{a(`${t}@${e}`)},100);return()=>clearTimeout(l)},[t,e]),r?o.jsx("a",{href:`mailto:${r}`,className:s,children:r}):o.jsxs("span",{className:s,children:[t," [at] ",e]})};export{c as E};
